@@ -1,0 +1,24 @@
+{
+  "name": "if-true",
+  "version": "1.0.0",
+  "description": "Utils for check variable types (String, Array, Number, Boolean, Object)",
+  "homepage": "https://github.com/justrorror/if-true",
+  "main": "./dist",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "keywords": [
+    "array",
+    "bool",
+    "boolean",
+    "is array",
+    "is bool",
+    "is boolean"
+  ],
+  "devDependencies": {
+    "tslint": "6.1.3",
+    "typescript": "4.6.3"
+  }
+}
